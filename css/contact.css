@@ -1,0 +1,45 @@
+form{
+    width: 980px;
+}
+
+.contact th {
+    height: 7rem;
+    width: 150px;
+    text-align: right;
+   margin-right: 20px;
+}
+
+.contact td{
+    padding-left: 10px;
+}
+
+.contact input .comment{
+    width: 480px;
+}
+
+.comment{
+    width: 480px;
+}
+
+.contact tr th{
+    margin: 10px;
+}
+
+.contact tr td{
+   margin: 0;
+}
+
+.submit{
+    text-align: center;
+    display: block;
+}
+
+.button{
+    background-color: #008B8B;
+    color: white;
+    font-size: 3rem;
+}
+
+.button:hover{
+    opacity: 0.7;
+}
