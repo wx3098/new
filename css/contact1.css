@@ -1,10 +1,11 @@
 html{
     font-size: 62.5%;
     height: 100%;
+    width: 100%;
 }
 
 body{
-    width: 980px;
+   width: 100%;
 }
 
 .container{
@@ -123,6 +124,7 @@ form{
     background-color: #008B8B;
     color: white;
     font-size: 3rem;
+
 }
 
 .button:hover{
@@ -158,7 +160,7 @@ form{
 
 .wrapper{
     margin-top: 10px;
-    padding-bottom: 100%;
+    padding-bottom: 20%;
 }
 
 .banner a:hover{
@@ -207,4 +209,5 @@ form{
     text-align: center;
     vertical-align: middle;
     display: table-cell;
+   
 }
